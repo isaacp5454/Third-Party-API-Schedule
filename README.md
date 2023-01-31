@@ -7,7 +7,7 @@ This project challenges us to use Jquery and third party API's like day.js. My m
 Clone this repository on your local computer using git clone. And then run the index.html file.
 
 ## Usage 
-![third-party-schedule](/images/schedule.png)
+![third-party-schedule](/schedule.png)
 
 ## Deployment Link
 
