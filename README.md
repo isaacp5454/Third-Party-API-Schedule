@@ -10,5 +10,6 @@ Clone this repository on your local computer using git clone. And then run the i
 ![third-party-schedule](/schedule.png)
 
 ## Deployment Link
-
+ https://isaacp5454.github.io/Third-Party-API-Schedule/
+ 
 
